@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel He4rt 6.0
                 </div>
 
                 <div class="links">
